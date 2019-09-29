@@ -1,0 +1,9 @@
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\bin\Debug\Lab5a.exe.config
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\bin\Debug\Lab5a.exe
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\bin\Debug\Lab5a.pdb
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.csprojResolveAssemblyReference.cache
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.Form1.resources
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.Properties.Resources.resources
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.csproj.GenerateResource.Cache
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.exe
+D:\Salman NU\FreeLancing\CS\April 2019\Lab5a\Lab5a\obj\Debug\Lab5a.pdb
